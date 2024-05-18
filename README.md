@@ -32,6 +32,14 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 11. /unmute <Target> - This will unmute the target allowing them to type in chat again, however, they will not be allowed to use the '/shout' command as the privelage 'announce' has not been granted.
 ## Privalages
 1. announce - this privelage will allow people to use the '/shout' command. Please see above.
+## How to install
+1. Download the release that you want.
+2. Unzip the downloaded file.
+3. Go into your unzipped file and locate the directory with 'README.md' and 'jafa_command_assistant' in it.
+4. Go to your Minetest directory and locate the 'mods' folder.
+5. Then, move the 'jafa_command_assistant' folder into the 'mods' folder.
+6. Now, launch the game, click select mods and enable the 'jafa command assistant' mod.
+7. Finally, start your game and enjoy!
 ## Final notes
 Thank you for downloading this mod, I hope that it porves usefull and the issues page on github can be used to report any issues. This mod is now in a stable state but is still bieng maintaned and developed.
 ### License
