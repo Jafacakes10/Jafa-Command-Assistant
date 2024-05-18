@@ -34,7 +34,7 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 1. announce - this privelage will allow people to use the '/shout' command. Please see above.
 ## Final notes
 Thank you for downloading this mod, I hope that it porves usefull and the issues page on github can be used to report any issues. This mod is now in a stable state but is still bieng maintaned and developed.
-# License
+### License
 Jafa command assistant © 2024 by Jafacakes10 is licensed under CC BY 4.0 
 
 Latest release: V 1.0.0
