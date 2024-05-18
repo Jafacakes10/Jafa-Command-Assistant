@@ -48,3 +48,6 @@ Jafa command assistant © 2024 by Jafacakes10 is licensed under CC BY 4.0
 Latest release: V 1.0.0
 
 Latest readme change: 18/05/2024 - @Jafacakes10
+
+DISCLAMER:
+The creator: Jafacakes10 is not responsible for any malicious use or harm to software or hardware. Jafacakes10 is not responsable for any issues or threats posed by duplicates of this software. If you have an issue with a duplicate then please refer to their issues page, not this one. Jafacakes10 is not resposnible for anything relating to duplicates of this software or any damage caused by this software. By downloading, you agree to this!
