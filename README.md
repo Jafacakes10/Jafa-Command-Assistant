@@ -51,4 +51,4 @@ Copyright (C) 2024 Jafacakes10 <https://github.com/Jafacakes10/>
 
 Latest release: V 1.0.0
 
-Latest readme change: 18/05/2024 - @Jafacakes10
+Latest readme change: 26/05/2024 - @Jafacakes10
