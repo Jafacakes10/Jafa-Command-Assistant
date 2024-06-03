@@ -45,7 +45,7 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 6. Now, launch the game, click select mods and enable the 'jafa command assistant' mod.
 7. Finally, start your game and enjoy!
 ## Final notes
-Thank you for downloading this mod, I hope that it porves usefull and the issues page on github can be used to report any issues. This mod is now in a stable state but is still bieng maintaned and developed.
+Thank you for downloading this mod, I hope that it proves usefull and the issues page on github can be used to report any issues. This mod is now in a stable state but is still bieng maintaned and developed.
 ### License
 Copyright (C) 2024 Jafacakes10 <https://github.com/Jafacakes10/>
 
