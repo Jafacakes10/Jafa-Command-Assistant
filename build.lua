@@ -1,6 +1,7 @@
 minetest.register_chatcommand("build", {
 	description = "This will allow the given player to build or break blocks.",
 	params = "Target",
+	privs = {privs=true},
 	func = function(name, params)
         if params == "me" then
 		    local privs = minetest.get_player_privs(name)

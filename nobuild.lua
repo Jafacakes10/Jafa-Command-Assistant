@@ -1,6 +1,7 @@
 minetest.register_chatcommand("nobuild", {
 	description = "This will stop the given player from building or breaking blocks!",
 	params = "Target",
+	privs = {privs=true},
 	func = function(name, params)
         if params == "me" then
 		    local privs = minetest.get_player_privs(name)

@@ -34,6 +34,10 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 12. /nobuild <Target> | <Me> - This will stop the target from building or breaking in the world.
 
 13. /build <Target> | <Me> - This will allow the target to build and break in the world.
+
+14. /noclip <Target> | <Me> - This will allow the target to noclip through blocks.
+
+15. /clip <Target> | <Me> - This will stop the target from noclipping through blocks.
 ## Privileges
 1. announce - this privilege will allow people to use the '/shout' command. Please see above.
 ## How to install
@@ -49,6 +53,6 @@ Thank you for downloading this mod, I hope that it proves useful and the issues 
 ### License
 Copyright (C) 2024 Jafacakes10 <https://github.com/Jafacakes10/>
 
-Latest release: V 1.0.0
+Latest release: V 3.0.0
 
-Latest readme change: 26/05/2024 - @Jafacakes10
+Latest readme change: 8/06/2024 - @Jafacakes10
