@@ -17,7 +17,7 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 
 5. /info <Target> - This will post the ip address of the target to the command callers chat only.
 
-6. /mute \<Target\> | <Me> - This will mute players in chat, stopping them from posting chat or using the '/shout' command that comes with this mod.
+6. /mute <Target> | <Me> - This will mute players in chat, stopping them from posting chat or using the '/shout' command that comes with this mod.
 
 7. /noadmin <Target> | <Me> - This will remove all privileges from the target excluding 'interact' and 'shout' as these are the default privileges.
 
