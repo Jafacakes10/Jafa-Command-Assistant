@@ -21,7 +21,7 @@ dofile(minetest.get_modpath("jca") ..'/build.lua')
 dofile(minetest.get_modpath("jca") ..'/nobuild.lua')
 dofile(minetest.get_modpath("jca") ..'/noclip.lua')
 dofile(minetest.get_modpath("jca") ..'/clip.lua')
--- V 3.1.0
+-- V 4.0.0
 dofile(minetest.get_modpath("jca") ..'/ver.lua')
 dofile(minetest.get_modpath("jca") ..'/stat.lua')
 dofile(minetest.get_modpath("jca") ..'/b.lua')

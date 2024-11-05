@@ -35,9 +35,9 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 
 13. /build \<Target\> | \<Me\> - This will allow the target to build and break in the world.
 
-15. /ver - This will display the JCA version information in chat.
+14. /ver - This will display the JCA version information in chat.
 
-16. /stat - This will show the status of the server. This includes the game version, game type, server uptime, max lag, currently online clients and JCA version.
+15. /stat - This will show the status of the server. This includes the game version, game type, server uptime, max lag, currently online clients and JCA version.
 
 16. /b \<Target\> | \<$list\> - This will ban the target's ip from the server or list the banned players.
 ## Privileges
@@ -55,6 +55,6 @@ Thank you for downloading this mod, I hope that it proves useful and the issues 
 ### License
 Copyright (C) 2024 Jafacakes10 <https://github.com/Jafacakes10/>
 
-Latest release: V 3.1.0
+Latest release: V 4.0.0
 
 Latest readme change: 05/11/2024 - @Jafacakes10
