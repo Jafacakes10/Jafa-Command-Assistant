@@ -15,31 +15,33 @@ This is a Minetest mod to assist anyone with commands in game. It adds commands 
 
 3. /fly <Target> | <Me> - This command will grant the 'fly' privilege to any player allowing them to fly.
 
-4. /info <Target> - This will post the ip address of the target to the command callers chat only.
+4. /test <test> test
 
-5. /mute <Target> | <Me> - This will mute players in chat, stopping them from posting chat or using the '/shout' command that comes with this mod.
+5. /info <Target> - This will post the ip address of the target to the command callers chat only.
 
-6. /noadmin <Target> | <Me> - This will remove all privileges from the target excluding 'interact' and 'shout' as these are the default privileges.
+6. /mute <Target> | <Me> - This will mute players in chat, stopping them from posting chat or using the '/shout' command that comes with this mod.
 
-7. /nofly <Target> | <Me> - This will remove the 'fly' privilege from the target removing their ability to fly.
+7. /noadmin <Target> | <Me> - This will remove all privileges from the target excluding 'interact' and 'shout' as these are the default privileges.
 
-8. /shout <Message> - This will post the specified message in chat in the format '[ANNOUNCEMENT] <message>'.
+8. /nofly <Target> | <Me> - This will remove the 'fly' privilege from the target removing their ability to fly.
 
-9. /stop <Reason> - This will shutdown the server and give the reason specified in this format 'Access denied. Reason:  - This server has been forcably closed by: <command callers name> -  For the reason: <specified reason>'
+9. /shout <Message> - This will post the specified message in chat in the format '[ANNOUNCEMENT] <message>'.
 
-10. /tp <X>,<Y>,<Z> | <to_name> | <name> <X>,<Y>,<Z> | <name> <to_name> - This will teleport to a player, coordinates, a player to coordinates or a player to a player.
+10. /stop <Reason> - This will shutdown the server and give the reason specified in this format 'Access denied. Reason:  - This server has been forcably closed by: <command callers name> -  For the reason: <specified reason>'
 
-11. /unmute <Target> | <Me> - This will unmute the target allowing them to type in chat again, however, they will not be allowed to use the '/shout' command as the privilege 'announce' has not been granted.
+11. /tp <X>,<Y>,<Z> | <to_name> | <name> <X>,<Y>,<Z> | <name> <to_name> - This will teleport to a player, coordinates, a player to coordinates or a player to a player.
 
-12. /nobuild <Target> | <Me> - This will stop the target from building or breaking in the world.
+12. /unmute <Target> | <Me> - This will unmute the target allowing them to type in chat again, however, they will not be allowed to use the '/shout' command as the privilege 'announce' has not been granted.
 
-13. /build <Target> | <Me> - This will allow the target to build and break in the world.
+13. /nobuild <Target> | <Me> - This will stop the target from building or breaking in the world.
 
-14. /ver - This will display the JCA version information in chat.
+14. /build <Target> | <Me> - This will allow the target to build and break in the world.
 
-15. /stat - This will show the status of the server. This includes the game version, game type, server uptime, max lag, currently online clients and JCA version.
+15. /ver - This will display the JCA version information in chat.
 
-16. /b <Target> | <$list> - This will ban the target's ip from the server or list the banned players.
+16. /stat - This will show the status of the server. This includes the game version, game type, server uptime, max lag, currently online clients and JCA version.
+
+17. /b <Target> | <$list> - This will ban the target's ip from the server or list the banned players.
 ## Privileges
 1. announce - this privilege will allow people to use the '/shout' command. Please see above.
 ## How to install
